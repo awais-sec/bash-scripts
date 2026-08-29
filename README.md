@@ -4,8 +4,6 @@ Shell scripts for system administration and security tasks, written as part of a
 Digital Forensics & Cyber Security shell-scripting course. Twelve labs, progressing
 from basic terminal commands to process management and file operations.
 
-> **Roll No:** SP-2023/BS-DFCS/008 &nbsp;|&nbsp; **Name:** Awais Ahmed
-
 Each lab has its own folder with the script(s) and a `README.md` write-up
 (what it does, the code, and screenshots of it running).
 
